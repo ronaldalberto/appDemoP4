@@ -1,0 +1,7 @@
+public class ClaseA {
+private int x;
+private double uy;
+
+x=0;
+y=0.0;
+}
