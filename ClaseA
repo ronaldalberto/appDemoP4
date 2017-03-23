@@ -2,7 +2,7 @@ public class ClaseA {
 private double x;
 private double y;
 
-public prueba{
+public prueba(){
 x=20.0;
 y=40.0;
 }
