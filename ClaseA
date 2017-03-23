@@ -1,7 +1,7 @@
 public class ClaseA {
-private int x;
-private double uy;
+private double x;
+private double y;
 
-x=0;
+x=0.0;
 y=0.0;
 }
